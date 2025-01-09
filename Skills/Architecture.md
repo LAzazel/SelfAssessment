@@ -1,7 +1,7 @@
 ## Architecture
 
 - Application structure
-  - Modularity ~
+  - Modularity u
   - Components u
   - Directories u
   - GRASP u
