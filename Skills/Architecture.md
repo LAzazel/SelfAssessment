@@ -1,19 +1,19 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - CQS
-  - Leaking abstractions
-  - Multiparadigm code
+  - Modularity u
+  - Components u
+  - Directories u
+  - GRASP u
+  - SOLID u
+  - GoF patterns h
+  - CQS h
+  - Leaking abstractions h
+  - Multiparadigm code h
   - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
+  - Platform-agnostic h
+  - Transport-agnostic h
+  - Framework-agnostic h
   - Code coverage
   - Cohesion
   - Coupling
@@ -30,7 +30,7 @@
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming
+  - Metaprogramming h
   - Inversion of control (IoC)
   - Dependency injection (DI)
   - Clean architecture
@@ -61,7 +61,7 @@
   - Vendor lock-in
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS)
+  - A software requirements specification (SRS) h
   - Solution visions
   - Solution capabilities
   - System design
@@ -70,7 +70,7 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds u
   - BPMN
   - Low-code
   - No-code
