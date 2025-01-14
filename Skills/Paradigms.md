@@ -1,53 +1,53 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming u
-  - Imperative programming h
+  - Procedural programming: 🖐️ used
+  - Imperative programming: 👂 heard
   - Structured programming г
-  - Non-structured programming h
-  - Functional programming u
-  - Prototype-based programming h
-  - Object-oriented programming u
+  - Non-structured programming: 👂 heard
+  - Functional programming: 🖐️ used
+  - Prototype-based programming: 👂 heard
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming h
-  - Parallel programming h
+  - Asynchronous programming: 👂 heard
+  - Parallel programming: 👂 heard
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming h
+  - Multi-paradigm programming: 👂 heard
   - Metaprogramming
   - Actor model
   - Lambda calculus
   - Black box
-  - Information hiding u
+  - Information hiding: 🖐️ used
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition u
+  - Class composition: 🖐️ used
 - OOP basics
-  - Constructor u
-  - Operator `new` h
-  - Static method k
-  - Method u
-  - Async method h
-  - Getters, Setters h
-  - Public fields u
-  - Private fields u
-  - Field declarations u
-  - Inheritance u
-  - Parent class u
-  - Polymorphism u
-  - Abstract class h
-  - Interface h
-  - Encapsulation u
+  - Constructor: 🖐️ used
+  - Operator `new`: 👂 heard
+  - Static method: 🎓 known
+  - Method: 🖐️ used
+  - Async method: 👂 heard
+  - Getters, Setters: 👂 heard
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 👂 heard
+  - Interface: 👂 heard
+  - Encapsulation: 🖐️ used
   - Hidden class
   - Object form
-  - Instance u
-  - Introspection u
-  - Reflection h
-  - The diamond problem h
+  - Instance: 🖐️ used
+  - Introspection: 🖐️ used
+  - Reflection: 👂 heard
+  - The diamond problem: 👂 heard
 - GRASP
   - Information expert
   - Creator
@@ -68,19 +68,19 @@
   - Factory Method
   - Abstract Factory
   - Adapter
-  - Observer h
+  - Observer: 👂 heard
   - Strategy
   - Facade
-  - Proxy h
+  - Proxy: 👂 heard
   - Chain of Responsibility
   - Command
-  - Iterator u
+  - Iterator: 🖐️ used
   - State
   - Bridge
-  - Builder h
+  - Builder: 👂 heard
   - Prototype
   - Composite
-  - Decorator u
+  - Decorator: 🖐️ used
   - Flyweight
   - Mediator
   - Memento

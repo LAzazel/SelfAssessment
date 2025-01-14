@@ -1,28 +1,28 @@
 ## .NET
 
 - Core Concepts and Internals
-  - Strengths and weaknesses of .NET h
-  - Stateful and stateless services h
-  - Asynchronous and synchronous programming h
+  - Strengths and weaknesses of .NET: 👂 heard
+  - Stateful and stateless services: 👂 heard
+  - Asynchronous and synchronous programming: 👂 heard
   - Task-based asynchronous pattern
-  - Garbage collection in .NET h
+  - Garbage collection in .NET: 👂 heard
   - .NET runtime versions and support
   - I/O-bound, CPU-bound tasks
   - Real-time applications with SignalR
 - Modularity and Dependencies
   - .NET assemblies
   - NuGet package management
-  - Dependency management in .NET h
-  - Dependency Injection in .NET h
-  - Inversion of Control (IoC) h
-  - IoC containers in .NET h
+  - Dependency management in .NET: 👂 heard
+  - Dependency Injection in .NET: 👂 heard
+  - Inversion of Control (IoC): 👂 heard
+  - IoC containers in .NET: 👂 heard
   - Middleware and pipeline configuration
-  - Modular applications h
+  - Modular applications: 👂 heard
 - Environment and Tools
-  - Command line interface (CLI) tools u
+  - Command line interface (CLI) tools: 🖐️ used
   - .NET CLI
   - Windows Services and Linux Daemons
-  - Hosting and Deployment models u
+  - Hosting and Deployment models: 🖐️ used
   - IIS and Kestrel web server
   - Environment variables and configuration
   - File system I/O operations
@@ -32,39 +32,39 @@
   - LINQ
   - SignalR for real-time web functionality
   - High-performance RPC with `gRPC`
-  - Security features (authentication, authorization) h
-  - Cryptography and secure data handling h
-  - Memory and resource management h
-  - Globalization and localization h
+  - Security features (authentication, authorization): 👂 heard
+  - Cryptography and secure data handling: 👂 heard
+  - Memory and resource management: 👂 heard
+  - Globalization and localization: 👂 heard
 - Network and Protocols
-  - HTTP/HTTPS support h
-  - WebSockets for real-time communication h
+  - HTTP/HTTPS support: 👂 heard
+  - WebSockets for real-time communication: 👂 heard
   - TCP/UDP networking
   - SSL/TLS for secure connections
   - Efficient network communication with `gRPC`
-  - HTTP/2 and HTTP/3 support h
-  - Network security (DDoS, XSS, CSRF prevention) h
-  - Serialization and deserialization (JSON, XML) h
+  - HTTP/2 and HTTP/3 support: 👂 heard
+  - Network security (DDoS, XSS, CSRF prevention): 👂 heard
+  - Serialization and deserialization (JSON, XML): 👂 heard
 - Testing and Debugging
-  - Unit testing with frameworks like xUnit, NUnit h
-  - Integration testing h
-  - Logging and tracing h
-  - Application monitoring and telemetry h
-  - Debugging tools and strategies h
-  - Performance profiling and analysis h
+  - Unit testing with frameworks like xUnit, NUnit: 👂 heard
+  - Integration testing: 👂 heard
+  - Logging and tracing: 👂 heard
+  - Application monitoring and telemetry: 👂 heard
+  - Debugging tools and strategies: 👂 heard
+  - Performance profiling and analysis: 👂 heard
 - Data Access and ORM
   - Entity Framework Core
   - Dapper
-  - ADO.NET for database access h
-  - Data modeling and migration u
+  - ADO.NET for database access: 👂 heard
+  - Data modeling and migration: 🖐️ used
   - Repository and Unit of Work patterns
   - CRUD operations
 - Error Handling and Debugging
-  - Exception handling in .NET u
-  - Custom error classes u
-  - Debugging and diagnostic tools h
-  - Profiling and performance analysis h
-  - Memory leak detection h
+  - Exception handling in .NET: 🖐️ used
+  - Custom error classes: 🖐️ used
+  - Debugging and diagnostic tools: 👂 heard
+  - Profiling and performance analysis: 👂 heard
+  - Memory leak detection: 👂 heard
 - Integration and Extensibility
   - Interoperability with native libraries
   - P/Invoke for calling `C/C++` libraries
@@ -72,9 +72,9 @@
   - .NET for `WebAssembly`
   - Custom middleware development
 - Cloud and Microservices
-  - Integration with cloud platforms (Azure, AWS) h
-  - Microservices architecture h
-  - Containerization with Docker h
+  - Integration with cloud platforms (Azure, AWS): 👂 heard
+  - Microservices architecture: 👂 heard
+  - Containerization with Docker: 👂 heard
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
@@ -125,4 +125,4 @@
   - ASP.NET Core
   - Blazor
   - Razor Syntax
-  - RESTful API development u
+  - RESTful API development: 🖐️ used
