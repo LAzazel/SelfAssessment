@@ -1,28 +1,28 @@
 ## .NET
 
 - Core Concepts and Internals
-  - Strengths and weaknesses of .NET
-  - Stateful and stateless services
-  - Asynchronous and synchronous programming
+  - Strengths and weaknesses of .NET h
+  - Stateful and stateless services h
+  - Asynchronous and synchronous programming h
   - Task-based asynchronous pattern
-  - Garbage collection in .NET
+  - Garbage collection in .NET h
   - .NET runtime versions and support
   - I/O-bound, CPU-bound tasks
   - Real-time applications with SignalR
 - Modularity and Dependencies
   - .NET assemblies
   - NuGet package management
-  - Dependency management in .NET
-  - Dependency Injection in .NET
-  - Inversion of Control (IoC)
-  - IoC containers in .NET
+  - Dependency management in .NET h
+  - Dependency Injection in .NET h
+  - Inversion of Control (IoC) h
+  - IoC containers in .NET h
   - Middleware and pipeline configuration
-  - Modular applications
+  - Modular applications h
 - Environment and Tools
-  - Command line interface (CLI) tools
+  - Command line interface (CLI) tools u
   - .NET CLI
   - Windows Services and Linux Daemons
-  - Hosting and Deployment models
+  - Hosting and Deployment models u
   - IIS and Kestrel web server
   - Environment variables and configuration
   - File system I/O operations
@@ -32,39 +32,39 @@
   - LINQ
   - SignalR for real-time web functionality
   - High-performance RPC with `gRPC`
-  - Security features (authentication, authorization)
-  - Cryptography and secure data handling
-  - Memory and resource management
-  - Globalization and localization
+  - Security features (authentication, authorization) h
+  - Cryptography and secure data handling h
+  - Memory and resource management h
+  - Globalization and localization h
 - Network and Protocols
-  - HTTP/HTTPS support
-  - WebSockets for real-time communication
+  - HTTP/HTTPS support h
+  - WebSockets for real-time communication h
   - TCP/UDP networking
   - SSL/TLS for secure connections
   - Efficient network communication with `gRPC`
-  - HTTP/2 and HTTP/3 support
-  - Network security (DDoS, XSS, CSRF prevention)
-  - Serialization and deserialization (JSON, XML)
+  - HTTP/2 and HTTP/3 support h
+  - Network security (DDoS, XSS, CSRF prevention) h
+  - Serialization and deserialization (JSON, XML) h
 - Testing and Debugging
-  - Unit testing with frameworks like xUnit, NUnit
-  - Integration testing
-  - Logging and tracing
-  - Application monitoring and telemetry
-  - Debugging tools and strategies
-  - Performance profiling and analysis
+  - Unit testing with frameworks like xUnit, NUnit h
+  - Integration testing h
+  - Logging and tracing h
+  - Application monitoring and telemetry h
+  - Debugging tools and strategies h
+  - Performance profiling and analysis h
 - Data Access and ORM
   - Entity Framework Core
   - Dapper
-  - ADO.NET for database access
-  - Data modeling and migration
+  - ADO.NET for database access h
+  - Data modeling and migration u
   - Repository and Unit of Work patterns
   - CRUD operations
 - Error Handling and Debugging
-  - Exception handling in .NET
-  - Custom error classes
-  - Debugging and diagnostic tools
-  - Profiling and performance analysis
-  - Memory leak detection
+  - Exception handling in .NET u
+  - Custom error classes u
+  - Debugging and diagnostic tools h
+  - Profiling and performance analysis h
+  - Memory leak detection h
 - Integration and Extensibility
   - Interoperability with native libraries
   - P/Invoke for calling `C/C++` libraries
@@ -72,9 +72,9 @@
   - .NET for `WebAssembly`
   - Custom middleware development
 - Cloud and Microservices
-  - Integration with cloud platforms (Azure, AWS)
-  - Microservices architecture
-  - Containerization with Docker
+  - Integration with cloud platforms (Azure, AWS) h
+  - Microservices architecture h
+  - Containerization with Docker h
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
@@ -125,4 +125,4 @@
   - ASP.NET Core
   - Blazor
   - Razor Syntax
-  - RESTful API development
+  - RESTful API development u
